@@ -1,0 +1,14 @@
+{
+  "name": "library_api",
+  "version": "1.0.0",
+  "description": "a book directory api",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Chibueze Charles",
+  "license": "ISC"
+}
